@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btn_about"
+        android:title="@string/ic_about"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_about"
+        android:onClick="onAboutAction"
+        />
+
+    <item
+        android:id="@+id/btn_grid"
+        android:checkable="true"
+        android:checked="false"
+        android:icon="@drawable/ic_grid"
+        android:onClick="onAboutAction"
+        android:title="@string/ic_grid"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Album List</string>
+    <string name="album_name">Nama Album</string>
+    <string name="detail">Detail</string>
+    <string name="year">XXXX</string>
+    <string name="artist_name">Nama Artist</string>
+    <string name="genre_name">Genre</string>
+    <string name="ic_about">About</string>
+    <string name="ic_grid">Grid</string>
+    <string name="my_name">Reski Mulud Muchamad</string>
+    <string name="my_email">reski.mulud@gmail.com</string>
+    <string name="release">Release</string>
+    <string name="songs">Songs</string>
+    <string name="label">Label</string>
+    <string name="tv_number">No</string>
+    <string name="tv_song_title">Judul Lagu</string>
+    <string name="tv_song_length">Durasi</string>
+    <string name="tracklist">Tracklist :</string>
+</resources>
